@@ -1,0 +1,3 @@
+[submodule "airbyte-integrations/ona-airbyte-connectors"]
+	path = airbyte-integrations/ona-airbyte-connectors
+	url = git@github.com:onaio/ona-airbyte-connectors.git
